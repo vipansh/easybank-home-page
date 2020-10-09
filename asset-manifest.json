@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/easybank-home-page/static/css/main.dbdc868b.chunk.css",
+    "main.js": "/easybank-home-page/static/js/main.3db095d6.chunk.js",
+    "main.js.map": "/easybank-home-page/static/js/main.3db095d6.chunk.js.map",
+    "runtime-main.js": "/easybank-home-page/static/js/runtime-main.28835a5e.js",
+    "runtime-main.js.map": "/easybank-home-page/static/js/runtime-main.28835a5e.js.map",
+    "static/js/2.82448a49.chunk.js": "/easybank-home-page/static/js/2.82448a49.chunk.js",
+    "static/js/2.82448a49.chunk.js.map": "/easybank-home-page/static/js/2.82448a49.chunk.js.map",
+    "index.html": "/easybank-home-page/index.html",
+    "precache-manifest.304913045fdf45eb64d3514eb7c55d61.js": "/easybank-home-page/precache-manifest.304913045fdf45eb64d3514eb7c55d61.js",
+    "service-worker.js": "/easybank-home-page/service-worker.js",
+    "static/css/main.dbdc868b.chunk.css.map": "/easybank-home-page/static/css/main.dbdc868b.chunk.css.map",
+    "static/js/2.82448a49.chunk.js.LICENSE.txt": "/easybank-home-page/static/js/2.82448a49.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/easybank-home-page/static/media/bg-intro-desktop.9cea2f98.svg",
+    "static/media/image-mockups.png": "/easybank-home-page/static/media/image-mockups.edc63e85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28835a5e.js",
+    "static/js/2.82448a49.chunk.js",
+    "static/css/main.dbdc868b.chunk.css",
+    "static/js/main.3db095d6.chunk.js"
+  ]
+}
